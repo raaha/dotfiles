@@ -12,3 +12,4 @@ dotfiles: ## Install the dotfiles
 	ln -sfn $(CURDIR)/.Xdefaults $(HOME)/.Xdefaults
 	ln -sfn $(CURDIR)/.Xprofile $(HOME)/.Xprofile
 	ln -sfn $(CURDIR)/.Xresources $(HOME)/.Xresources
+	ln -sfn $(CURDIR)/.fonts $(HOME)/.fonts
