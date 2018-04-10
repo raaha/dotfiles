@@ -83,7 +83,7 @@ URxvt*background:	S_base04
 *saveLines:             999999
 
 !-- Xft settings -- !
-# Xft.dpi:        144 # MacbookAir 128 PPI
+# Xft.dpi:        144 # Macbook Air 128 PPI
 # Xft.rgba:       rgb
 # Xft.autohint:   0
 # Xft.lcdfilter:  lcddefault
