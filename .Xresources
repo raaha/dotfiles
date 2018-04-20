@@ -83,13 +83,13 @@ URxvt*background:	S_base04
 *saveLines:             999999
 
 !-- Xft settings -- !
-# Xft.dpi:        144 # Macbook Air 128 PPI
-# Xft.rgba:       rgb
-# Xft.autohint:   0
-# Xft.lcdfilter:  lcddefault
-# Xft.hintstyle:  hintfull
-# Xft.hinting:    1
-# Xft.antialias:  1
+Xft.dpi:        96
+Xft.rgba:       rgb
+Xft.autohint:   0
+Xft.lcdfilter:  lcddefault
+Xft.hintstyle:  hintfull
+Xft.hinting:    1
+Xft.antialias:  1
 
 ! -- Fonts -- !
 URxvt.font:xft:Inconsolata:pixelsize=16,style=Medium, xft:Symbola:pixelsize=14,style=Regular
