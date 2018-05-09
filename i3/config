@@ -51,7 +51,7 @@ for_window [title="Open Password Database"] floating enable
 for_window [title="Password Gorilla*"] floating enable
 
 # lock screen
-bindsym $mod+l exec i3lock  
+bindsym $mod+l exec i3lock -c 111111
 
 # change focus
 bindsym $mod+j focus left
